@@ -7,6 +7,6 @@ Si bien, para varias funciones ocupé el Chat GPT, me preocupé de incorporarlas
 Además, aprendí que para modificar tanto textos o imágenes, debo poner el style=”lo que quiera modificar”, antes de cerrar /\>.   
 También que la función \<figure\> sirve para ponerle pie de página a las imágenes.  
 En fin, si bien me apoyé de la herramienta web, sé que aprendí.   
-Lo único que me costó mucho, y lo intenté en reiteradas ocasiones, fue centrar las imágenes, así que, espero poder resolverlo en clases.   
+Lo único que no pude hacer, aunque lo intenté en reiteradas ocasiones, fue centrar las imágenes, así que, espero poder resolverlo en clases. Tampoco supe como se subía al GitHub pages.
  
 
